@@ -1,0 +1,13 @@
+1：  sudo -i
+
+2： wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh && chmod +x shadowsocksR.sh
+
+3： ./shadowsocksR.sh
+
+输入shadowsocks 密码
+
+输入端口号
+
+其他一路回车（也可自行选择混淆 协议）
+
+在最后出现红底数据以后
